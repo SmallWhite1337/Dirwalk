@@ -1,0 +1,12 @@
+build/
+*.o
+*.out
+err
+dirwalk
+dirwalk_debug
+*.exe
+vgcore.*
+valgrind.log
+*~
+*.swp
+*.swo
